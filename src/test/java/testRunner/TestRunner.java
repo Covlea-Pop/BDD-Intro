@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 
         features = {
-                //Features/HomePage.feature",
+                "Features/HomePage.feature",
                 "Features/CompleteOrder.feature"
 
         },
