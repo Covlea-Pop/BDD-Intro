@@ -10,10 +10,11 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 
         features = {
-                "Features/HomePage.feature",
-                "Features/CompleteOrder.feature",
-                "Features/GiftCard.feature",
-                "Features/WishList.feature"
+//                "Features/HomePage.feature",
+//                "Features/CompleteOrder.feature",
+//                "Features/GiftCard.feature",
+//                "Features/WishList.feature",
+                "Features/MenuButtons.feature"
 
         },
         plugin = {
