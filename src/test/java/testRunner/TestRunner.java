@@ -12,7 +12,8 @@ import org.junit.runner.RunWith;
         features = {
                 "Features/HomePage.feature",
                 "Features/CompleteOrder.feature",
-                "Features/GiftCard.feature"
+                "Features/GiftCard.feature",
+                "Features/WishList.feature"
 
         },
         plugin = {
